@@ -28,5 +28,9 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Jason Charnes
   - Read on: 2019-01-14
 
+## Tutorials
 
+- [Extracting Text From Images Using Ruby ](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby)
+  - Author: Ahmed (@aonemd)
+  - Read on: 2019-01-18
 
