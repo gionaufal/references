@@ -10,6 +10,12 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Helen Anderson
   - Read on: 2019-01-22
 
+## Misc
+
+- [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
+  - Author: Catherine
+  - Read on: 2019-01-22
+
 ## Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
