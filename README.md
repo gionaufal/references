@@ -3,6 +3,13 @@ Log of articles and books I've been reading, that can be useful to someone
 
 ------------------------------------
 
+## Career
+
+- [6 Ways to Level Up your
+  Career](https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik)
+  - Author: Helen Anderson
+  - Read on: 2019-01-22
+
 ## Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
