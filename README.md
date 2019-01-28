@@ -3,7 +3,7 @@ Log of articles and books I've been reading, that can be useful to someone
 
 ------------------------------------
 
-## Career
+## Career/Work
 
 - [6 Ways to Level Up your
   Career](https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik)
@@ -35,15 +35,16 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Robert C. Martin (Uncle Bob)
   - Read on: 2019-01-17
 
-## Ruby
+## Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
   - Author: Jason Charnes
   - Read on: 2019-01-14
 
-## Tutorials
+- [Uploading images from Rails to DigitalOcean Spaces, with previewing](https://medium.com/@erickhoury/uploading-images-from-rails-to-digitalocean-spaces-with-previewing-8e10f427a02b)
+  - Author: Eric Khoury
+  - Read on: 2019-01-28
 
 - [Extracting Text From Images Using Ruby ](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby)
   - Author: Ahmed (@aonemd)
   - Read on: 2019-01-18
-
