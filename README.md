@@ -10,6 +10,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Helen Anderson
   - Read on: 2019-01-22
 
+## Elixir
+- [Cool CLIs in Elixir with IO.write/2](https://dennisbeatty.com/2019/01/09/cool-clis-in-elixir-with-io-write-2.html)
+  - Author: Dennis Beatty
+  - Read on: 2019-01-28
+
 ## Misc
 
 - [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
