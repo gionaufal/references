@@ -41,10 +41,15 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Jason Charnes
   - Read on: 2019-01-14
 
+- [Extracting Text From Images Using Ruby ](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby)
+  - Author: Ahmed (@aonemd)
+  - Read on: 2019-01-18
+
 - [Uploading images from Rails to DigitalOcean Spaces, with previewing](https://medium.com/@erickhoury/uploading-images-from-rails-to-digitalocean-spaces-with-previewing-8e10f427a02b)
   - Author: Eric Khoury
   - Read on: 2019-01-28
 
-- [Extracting Text From Images Using Ruby ](https://aonemd.github.io/blog/extracting-text-from-images-using-ruby)
-  - Author: Ahmed (@aonemd)
-  - Read on: 2019-01-18
+- [Ruby tricks for junior
+  developers](https://drivy.engineering/ruby-tricks-for-junior-devs/)
+  - Author: Clement Bruno
+  - Read on: 2019-1-28
