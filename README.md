@@ -10,6 +10,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Helen Anderson
   - Read on: 2019-01-22
 
+- [Rethinking how we interview in Microsoft's Developer
+  Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
+  - Author: John Montgomery
+  - Read on: 2019-01-31
+
 ## Elixir
 - [Cool CLIs in Elixir with IO.write/2](https://dennisbeatty.com/2019/01/09/cool-clis-in-elixir-with-io-write-2.html)
   - Author: Dennis Beatty
