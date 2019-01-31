@@ -35,6 +35,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Martin Fowler
   - Read on: 2019-01-15
 
+- [StranglerApplication](https://www.martinfowler.com/bliki/StranglerApplication.html)
+  - Author: Martin Folwer
+  - Read on: 2019-01-31
+
 - [The Transformation Priority
   Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
   - Author: Robert C. Martin (Uncle Bob)
