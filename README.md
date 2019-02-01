@@ -67,3 +67,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   developers](https://drivy.engineering/ruby-tricks-for-junior-devs/)
   - Author: Clement Bruno
   - Read on: 2019-1-28
+
+- [What's new in Ruby 2.6](http://nithinbekal.com/posts/ruby-2-6/)
+  - Author: Nithin Bekal
+  - Read on: 2019-02-01
