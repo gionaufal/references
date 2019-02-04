@@ -71,3 +71,8 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 - [What's new in Ruby 2.6](http://nithinbekal.com/posts/ruby-2-6/)
   - Author: Nithin Bekal
   - Read on: 2019-02-01
+
+- [Polimorfismo no Ruby on
+  Rails](https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/)
+  - Author: Vinicius Freire de Oliveira
+  - Read on: 2019-02-04
