@@ -33,6 +33,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Nate Berkopec
   - Read on: 2019-01-16
 
+- [42 performance tips for Ruby on
+  Rails](https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/)
+  - Author: Magnus Skog
+  - Read on: 2019-02-05
+
 ## Refactoring
 
 - [Refactoring code that accesses external
