@@ -81,3 +81,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   Rails](https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/)
   - Author: Vinicius Freire de Oliveira
   - Read on: 2019-02-04
+
+- [Ruby on Rails - how to create perfect enum in 5 steps](https://naturaily.com/blog/ruby-on-rails-enum)
+  - Author: Błażej Pichur
+  - Read on: 2019-02-05
