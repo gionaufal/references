@@ -38,6 +38,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Magnus Skog
   - Read on: 2019-02-05
 
+- [Preventing Useless Database
+  Hits](https://dev.to/molly_struve/preventing-useless-database-hits-2f50?utm_source=sendinblue&utm_campaign=Newsletter29&utm_medium=email)
+  - Author: Molly Struve
+  - Read on: 2019-02-12
+
 ## Refactoring
 
 - [Refactoring code that accesses external
@@ -46,7 +51,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2019-01-15
 
 - [StranglerApplication](https://www.martinfowler.com/bliki/StranglerApplication.html)
-  - Author: Martin Folwer
+  - Author: Martin Fowler
   - Read on: 2019-01-31
 
 - [The Transformation Priority
