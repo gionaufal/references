@@ -20,11 +20,24 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Dennis Beatty
   - Read on: 2019-01-28
 
+- [\[ Elixir | Why Linked Lists? \]](https://dev.to/edisonywh/-elixir--why-linked-lists--1e9d)
+  - Author: Edison Yap
+  - Read on: 2019-02-13
+
+
 ## Misc
 
 - [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
   - Author: Catherine
   - Read on: 2019-01-22
+
+- [Base CS](https://medium.com/basecs)
+  - Author: Vaidehi Joshi
+
+- [How arrays work the way arrays
+  work](https://dev.to/edisonywh/how-arrays-work-the-way-arrays-work-3bpg)
+  - Author: Edison Yap
+  - Read on: 2019-02-13
 
 ## Performance
 
