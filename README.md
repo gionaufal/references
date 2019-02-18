@@ -108,3 +108,13 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 - [Ruby on Rails - how to create perfect enum in 5 steps](https://naturaily.com/blog/ruby-on-rails-enum)
   - Author: Błażej Pichur
   - Read on: 2019-02-05
+
+
+------
+
+## To read
+
+- [How to create a simple CRUD app with Rails and
+  React](https://hibbard.eu/rails-react-crud-app/)
+  - Author: James Hibbard
+  - Tags: tutorial, rails, react
