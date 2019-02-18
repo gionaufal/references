@@ -109,6 +109,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Błażej Pichur
   - Read on: 2019-02-05
 
+- [Ruby 2.7 -
+  Enumerable#tally](https://medium.com/@baweaver/ruby-2-7-enumerable-tally-a706a5fb11ea)
+  - Author: Brandon Weaver
+  - Read on: 2019-02-18
+
 
 ------
 
