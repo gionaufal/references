@@ -61,6 +61,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Molly Struve
   - Read on: 2019-02-12
 
+- [Recursion, Tail Call Optimization and
+  Recursion](https://dev.to/edisonywh/recursion-tail-call-optimization-and-recursion-2enh)
+  - Author: Edison Yap
+  - Read on: 2019-02-19
+
 ## Refactoring
 
 - [Refactoring code that accesses external
@@ -113,6 +118,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   Enumerable#tally](https://medium.com/@baweaver/ruby-2-7-enumerable-tally-a706a5fb11ea)
   - Author: Brandon Weaver
   - Read on: 2019-02-18
+
+- [Essential Ruby Gems for Web Application Development with Rails
+  5.2](https://devtechnica.com/ruby-language/essential-ruby-gems-for-web-application-development-with-rails-5-2)
+  - Author: Sreedev Kodichath
+  - Read on: 2019-02-19
 
 
 ------
