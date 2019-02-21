@@ -24,6 +24,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Edison Yap
   - Read on: 2019-02-13
 
+- [Starting with Elixr, the Study
+  Guide](http://blog.plataformatec.com.br/2018/11/starting-with-elixir-the-study-guide/)
+  - Author: Rafael Rocha
+  - Read on: 2019-02-21
+
 ## Front-end
 - [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 1
 ](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-1-3be791dafa2b)
