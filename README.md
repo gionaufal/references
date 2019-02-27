@@ -3,7 +3,9 @@ Log of articles and books I've been reading, that can be useful to someone
 
 ------------------------------------
 
-## Career/Work
+## Articles/Blog Posts
+
+### Career/Work
 
 - [6 Ways to Level Up your
   Career](https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik)
@@ -15,7 +17,7 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: John Montgomery
   - Read on: 2019-01-31
 
-## Elixir
+### Elixir
 - [Cool CLIs in Elixir with IO.write/2](https://dennisbeatty.com/2019/01/09/cool-clis-in-elixir-with-io-write-2.html)
   - Author: Dennis Beatty
   - Read on: 2019-01-28
@@ -29,13 +31,13 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Rafael Rocha
   - Read on: 2019-02-21
 
-## Front-end
+### Front-end
 - [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 1
 ](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-1-3be791dafa2b)
   - Author: Daniel Kuroski
   - Read on: 2019-02-14
 
-## Misc
+### Misc
 
 - [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
   - Author: Catherine
@@ -49,7 +51,7 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Edison Yap
   - Read on: 2019-02-13
 
-## Performance
+### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
   Present](https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html)
@@ -71,7 +73,7 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Edison Yap
   - Read on: 2019-02-19
 
-## Refactoring
+### Refactoring
 
 - [Refactoring code that accesses external
 services](https://martinfowler.com/articles/refactoring-external-service.html)
@@ -87,7 +89,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Robert C. Martin (Uncle Bob)
   - Read on: 2019-01-17
 
-## Ruby/Rails
+### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
   - Author: Jason Charnes
@@ -132,9 +134,17 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 
 ------
 
-## To read
+### To read
 
 - [How to create a simple CRUD app with Rails and
   React](https://hibbard.eu/rails-react-crud-app/)
   - Author: James Hibbard
   - Tags: tutorial, rails, react
+
+-----
+
+## Books
+- [Pragmatic Programmer](The Pragmatic Programmer: From Journeyman to Master)
+  - Author: Andy Hunt, Dave Thomas
+  - Started on: 2019-02-21
+
