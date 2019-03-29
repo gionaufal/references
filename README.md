@@ -30,6 +30,10 @@ Log of articles and books I've been reading, that can be useful to someone
   Guide](http://blog.plataformatec.com.br/2018/11/starting-with-elixir-the-study-guide/)
   - Author: Rafael Rocha
   - Read on: 2019-02-21
+  
+- [How we Built a Highly Performant App with Ruby on Rails and Phoenix](https://www.monterail.com/blog/ruby-on-rails-development-phoenix-elixir)
+  - Author: Zuzia Kusznir
+  - Read on: 2019-03-29
 
 ### Front-end
 - [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 1
@@ -144,7 +148,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 -----
 
 ## Books
-- [Pragmatic Programmer](The Pragmatic Programmer: From Journeyman to Master)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
   - Author: Andy Hunt, Dave Thomas
   - Started on: 2019-02-21
 
