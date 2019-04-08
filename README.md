@@ -135,8 +135,23 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Sreedev Kodichath
   - Read on: 2019-02-19
 
+- [What's coming to Rails
+  6.0](https://medium.com/rubyinside/whats-coming-to-rails-6-0-8ec79eea66da)
+  - Author: Guy Maliar
+  - Read on: 2019-02-28
 
-------
+- [A collection of tips and tricks for the Ruby
+  language](https://devtechnica.com/ruby-language/a-collection-of-tips-and-tricks-for-the-ruby-language)
+  - Author: Sreedev Kodichath
+  - Read on: 2019-02-28
+
+- [Use Vim as a Ruby IDE](https://spacevim.org/use-vim-as-a-ruby-ide/)
+  - Author: SpaceVim
+  - Read on: 2019-03-01
+
+- [Learn by building, a Background Processing System in Ruby](https://blog.appsignal.com/2019/04/02/background-processing-system-in-ruby.html)
+  - Author: Benedikt Deicke
+  - Read on: 2019-04-08
 
 ### To read
 
@@ -144,6 +159,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   React](https://hibbard.eu/rails-react-crud-app/)
   - Author: James Hibbard
   - Tags: tutorial, rails, react
+
+- [Speeding up your Ruby on Rails
+  app](https://medium.com/@daniellempesis/speeding-up-your-ruby-on-rails-app-4c37ec71b126)
+  - Author: Daniel Lempesis
+  - Tags: tips, rails, performance, database
 
 -----
 
