@@ -167,7 +167,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 
 - [](https://iridakos.com/tutorials/2019/04/04/creating-chat-application-rails-websockets.html)
   - Author: Lazarus Lazaridis
-  - Tags: rail, websockets, actioncable, redis, chat, tutorial
+  - Tags: rails, websockets, actioncable, redis, chat, tutorial
+
+- [How to get into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
+  - Author: Alice Goldfuss
+  - Tags: SRE, guide
 
 -----
 
