@@ -93,6 +93,14 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Robert C. Martin (Uncle Bob)
   - Read on: 2019-01-17
 
+- [Taming legacy Ruby code using the “Sprout Method” technique (example 1)](https://www.codewithjason.com/taming-legacy-code-using-sprout-method-technique/)
+  - Author: Jason Swett
+  - Read on: 2019-04-12
+
+- [Taming legacy Ruby code using the “Sprout Method” technique (example 2)](https://www.codewithjason.com/taming-legacy-code-using-sprout-method-technique-example-2/)
+  - Author: Jason Swett
+  - Read on: 2019-04-12
+
 ### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
