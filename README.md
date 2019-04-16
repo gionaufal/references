@@ -55,6 +55,12 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Edison Yap
   - Read on: 2019-02-13
 
+- [How to build your won primitive surveillance system with Raspberry Pi in less
+  than one
+hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-system-with-raspberry-pi-in-less-than-one-hour-5ggl)
+  - Author: Nick Shulhin
+  - Read on: 2019-04-16
+
 ### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
