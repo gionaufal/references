@@ -167,6 +167,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Benedikt Deicke
   - Read on: 2019-04-08
 
+- [Hanami Getting
+  Started](https://guides.hanamirb.org/introduction/getting-started/)
+  - Author: Hanami
+  - Read on: 2019-04-18
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
