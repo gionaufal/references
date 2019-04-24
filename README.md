@@ -172,6 +172,16 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Hanami
   - Read on: 2019-04-18
 
+- [Ruby 2.7 — Pattern Matching — First
+  Impressions](https://medium.com/@baweaver/ruby-2-7-pattern-matching-first-impressions-cdb93c6246e6)
+  - Author: Brandon Weaver
+  - Read on: 2019-04-23
+
+- [Ruby 2.7 — Pattern Matching — Destructuring on
+  Point](https://medium.com/@baweaver/ruby-2-7-pattern-matching-destructuring-on-point-90f56aaf7b4e)
+  - Author: Brandon Weaver
+  - Read on: 2019-04-24
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
@@ -184,7 +194,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Daniel Lempesis
   - Tags: tips, rails, performance, database
 
-- [](https://iridakos.com/tutorials/2019/04/04/creating-chat-application-rails-websockets.html)
+- [Creating a chat application from scratch using Rails and WebSockets](https://iridakos.com/tutorials/2019/04/04/creating-chat-application-rails-websockets.html)
   - Author: Lazarus Lazaridis
   - Tags: rails, websockets, actioncable, redis, chat, tutorial
 
