@@ -202,6 +202,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Alice Goldfuss
   - Tags: SRE, guide
 
+- [How to create a Todo List with Phoenix
+  LiveView](https://dennisbeatty.com/2019/04/24/how-to-create-a-todo-list-with-phoenix-liveview.html)
+  - Author: Dennis Beatty
+  - Tags: elixr, phoenix, liveview, tutorial
+
 -----
 
 ## Books
