@@ -182,6 +182,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Brandon Weaver
   - Read on: 2019-04-24
 
+- [The Pure Function As An Object (PFAAO) Ruby Pattern](https://www.tomdalling.com/blog/ruby/pure-function-as-an-object-PFAAO-pattern/)
+  - Author: Tom Dalling
+  - Read on: 2019-04-26
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
