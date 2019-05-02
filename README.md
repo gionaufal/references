@@ -211,6 +211,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Dennis Beatty
   - Tags: elixr, phoenix, liveview, tutorial
 
+### Bookmarks
+
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+  - Tags: tutorials, css
+
 -----
 
 ## Books
