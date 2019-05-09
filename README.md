@@ -216,6 +216,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
   - Tags: tutorials, css
 
+- [Understanding sed - Practical
+  Guide](https://devarea.com/understanding-sed-practical-guide)
+  - Tags: tutorials, sed
+
 -----
 
 ## Books
