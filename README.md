@@ -30,10 +30,14 @@ Log of articles and books I've been reading, that can be useful to someone
   Guide](http://blog.plataformatec.com.br/2018/11/starting-with-elixir-the-study-guide/)
   - Author: Rafael Rocha
   - Read on: 2019-02-21
-  
+
 - [How we Built a Highly Performant App with Ruby on Rails and Phoenix](https://www.monterail.com/blog/ruby-on-rails-development-phoenix-elixir)
   - Author: Zuzia Kusznir
   - Read on: 2019-03-29
+
+- [The Value of a Senior Developer](https://dev.to/devrelopers/the-value-of-a-senior-developer-3c86)
+  - Author: David Christian Liedle
+  - Read on: 2019-05-16
 
 ### Front-end
 - [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 1
@@ -183,12 +187,17 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2019-04-24
 
 - [The Pure Function As An Object (PFAAO) Ruby Pattern](https://www.tomdalling.com/blog/ruby/pure-function-as-an-object-PFAAO-pattern/)
+
   - Author: Tom Dalling
   - Read on: 2019-04-26
 
 - [Ruby 2.7 adds shorthand operator for Object#method](https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html)
   - Author: Vipul A M
   - Read on: 2019-05-10
+
+- [Avoid Mutation – Functional Style In Ruby](https://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/)
+  - Author: Tom Dalling
+  - Read on: 2019-05-21
 
 ### To read
 
