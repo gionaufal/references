@@ -65,6 +65,11 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Author: Nick Shulhin
   - Read on: 2019-04-16
 
+- [How to give great code
+  reviews](https://dev.to/atyborska93/how-to-give-great-code-reviews-44jg)
+  - Author: Angelika Tyborska
+  - Read on: 2019-05-24
+
 ### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
