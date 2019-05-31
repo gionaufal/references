@@ -204,6 +204,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Tom Dalling
   - Read on: 2019-05-21
 
+- [The lifecycle of a
+  request](https://blog.skylight.io/the-lifecycle-of-a-request/)
+  - Author: Godfrey Chan
+  - Read on: 2019-05-31
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
