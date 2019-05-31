@@ -209,6 +209,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Godfrey Chan
   - Read on: 2019-05-31
 
+- [Rails Techniques: Using Polymorphic Associations](https://semaphoreci.com/blog/2017/08/16/polymorphic-associations-in-rails.html)
+  - Author: Jovan Ivanovic
+  - Read on: 2019-05-31
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
