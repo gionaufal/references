@@ -45,6 +45,11 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Daniel Kuroski
   - Read on: 2019-02-14
 
+### Infra
+- [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
+  - Author: Michael Lavers
+  - Read on: 2019-08-21
+
 ### Misc
 
 - [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
