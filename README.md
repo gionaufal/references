@@ -5,6 +5,12 @@ Log of articles and books I've been reading, that can be useful to someone
 
 ## Articles/Blog Posts
 
+### Agile
+
+- [Retrospectives 101](https://academy.retrium.com/ultimate-guide-to-agile-retrospectives/retrospectives-101/)
+  - Author: Retrium
+  - Read on: 2019-08-27
+
 ### Career/Work
 
 - [6 Ways to Level Up your
