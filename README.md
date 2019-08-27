@@ -45,11 +45,6 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: Daniel Kuroski
   - Read on: 2019-02-14
 
-### Infra
-- [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
-  - Author: Michael Lavers
-  - Read on: 2019-08-21
-
 ### Misc
 
 - [A regex cheatsheet for all those regex haters (and lovers) ](https://dev.to/catherinecodes/a-regex-cheatsheet-for-all-those-regex-haters-and-lovers--2cj1)
@@ -74,6 +69,14 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   reviews](https://dev.to/atyborska93/how-to-give-great-code-reviews-44jg)
   - Author: Angelika Tyborska
   - Read on: 2019-05-24
+
+- [How Far Out is AWS Fargate?](https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7)
+  - Author: Michael Lavers
+  - Read on: 2019-08-21
+
+- [Git Catastrophes and Tips to Avoid Them](https://blog.risingstack.com/git-catastrophes-and-tips-to-avoid-them)
+  - Author: János Kibisch
+  - Read on: 2019-08-26
 
 ### Performance
 
