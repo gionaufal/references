@@ -227,6 +227,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Jovan Ivanovic
   - Read on: 2019-05-31
 
+- [Ruby double splat (\*\*) operator cheatsheet](https://jetrockets.pro/blog/ruby-double-splat-operator-cheatsheet)
+  - Author: Ilia Kriachov
+  - Read on: 2019-08-29
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
