@@ -231,6 +231,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Ilia Kriachov
   - Read on: 2019-08-29
 
+- [Ruby Pattern Matching](https://medium.com/cedarcode/ruby-pattern-matching-1e84cab3b44a)
+  - Author: Sebastian Suttner
+  - Read on: 2019-09-05
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
