@@ -235,6 +235,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Sebastian Suttner
   - Read on: 2019-09-05
 
+- [To Serialize or Not to Serialize: ActiveModel Serializers](https://vaidehijoshi.github.io/blog/2015/06/23/to-serialize-or-not-to-serialize-activemodel-serializers/)
+  - Author: Vaidehi Joshi
+  - Read on: 2019-09-09
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
