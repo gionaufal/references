@@ -239,6 +239,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Vaidehi Joshi
   - Read on: 2019-09-09
 
+- [ActiveRecord - Quick
+  Tips](http://sapienza.tech/2019/09/01/active-record-quick-tips)
+  - Author: Lucas Sapienza
+  - Read on: 2019-09-16
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
