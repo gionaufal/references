@@ -23,6 +23,19 @@ Log of articles and books I've been reading, that can be useful to someone
   - Author: John Montgomery
   - Read on: 2019-01-31
 
+### DYI
+
+- [How to build your won primitive surveillance system with Raspberry Pi in less
+  than one
+hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-system-with-raspberry-pi-in-less-than-one-hour-5ggl)
+  - Author: Nick Shulhin
+  - Read on: 2019-04-16
+
+- [Ruby driven Raspberry Pi
+  buttons](https://blog.codenamev.com/ruby-driven-raspberry-pi-buttons/)
+  - Author: Valentino Stoll
+  - Read on: 2019-10-04
+
 ### Elixir
 - [Cool CLIs in Elixir with IO.write/2](https://dennisbeatty.com/2019/01/09/cool-clis-in-elixir-with-io-write-2.html)
   - Author: Dennis Beatty
@@ -64,12 +77,6 @@ Log of articles and books I've been reading, that can be useful to someone
   work](https://dev.to/edisonywh/how-arrays-work-the-way-arrays-work-3bpg)
   - Author: Edison Yap
   - Read on: 2019-02-13
-
-- [How to build your won primitive surveillance system with Raspberry Pi in less
-  than one
-hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-system-with-raspberry-pi-in-less-than-one-hour-5ggl)
-  - Author: Nick Shulhin
-  - Read on: 2019-04-16
 
 - [How to give great code
   reviews](https://dev.to/atyborska93/how-to-give-great-code-reviews-44jg)
