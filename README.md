@@ -91,6 +91,10 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Author: János Kibisch
   - Read on: 2019-08-26
 
+- [Fail Fast and Fail Often: Handling API Errors at Scale](https://monolist.co/blog/2019/08/fail-fast-and-fail-often/)
+  - Author: Akshay Nathan
+  - Read on: 2019-10-11
+
 ### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
