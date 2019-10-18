@@ -141,6 +141,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Jason Swett
   - Read on: 2019-04-12
 
+- [Controller Best Practices: Don’t Hide Instance Variables](https://blog.codeminer42.com/controller-best-practices-dont-hide-instance-variables-5e8bf067156)
+  - Author: Thiago Araújo Silva
+  - Read on: 2019-10-18
+
 ### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
