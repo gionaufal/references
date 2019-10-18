@@ -145,6 +145,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Thiago Araújo Silva
   - Read on: 2019-10-18
 
+- [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+  - Author: Sandi Metz
+  - Watched on: 2019-10-18
+
 ### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
