@@ -95,6 +95,10 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Author: Akshay Nathan
   - Read on: 2019-10-11
 
+- [Blue-Green deployments for Sidekiq workers in docker](https://medium.com/code-wild/blue-green-deployments-for-sidekiq-workers-in-docker-cdea46990cb4)
+  - Author: Bernat Rafales
+  - Read on: 2019-11-11
+
 ### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
