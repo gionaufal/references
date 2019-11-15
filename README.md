@@ -267,6 +267,10 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Lucas Sapienza
   - Read on: 2019-09-16
 
+- [How to Test Background Jobs with Active Job](https://gorails.com/episodes/testing-ruby-on-rails-active-job)
+  - Author: Go Rails
+  - Read on: 2019-11-15
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
