@@ -121,6 +121,12 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Author: Edison Yap
   - Read on: 2019-02-19
 
+- [Speeding up Rails boot
+  time](https://eng.fromatob.com/post/2019/11/speeding-up-rails-boot-time/)
+  - Author: Hercules Merscher
+  - Read on: 2019-11-21
+  - Tags: performance, rails, tests
+
 ### Refactoring
 
 - [Refactoring code that accesses external
