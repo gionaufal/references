@@ -306,6 +306,9 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   Guide](https://devarea.com/understanding-sed-practical-guide)
   - Tags: tutorials, sed
 
+- [Phoenix LiveView Tutorial: Bootstrap Your Messenger App](https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-2)
+  - Tags: tutorials, phoenix, elixir, liveview
+
 ### Bookmarks
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
