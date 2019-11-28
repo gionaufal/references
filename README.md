@@ -277,6 +277,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Go Rails
   - Read on: 2019-11-15
 
+- [It's About Time (Zones)](https://thoughtbot.com/blog/its-about-time-zones)
+  - Author: Elle Meredith
+  - Read on: 2019-11-28
+  - tags: time, timezone, rails
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
