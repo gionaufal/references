@@ -285,7 +285,12 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 - [It's About Time (Zones)](https://thoughtbot.com/blog/its-about-time-zones)
   - Author: Elle Meredith
   - Read on: 2019-11-28
-  - tags: time, timezone, rails
+  - Tags: time, timezone, rails
+
+- [Ruby 2.7 pattern matching after 10 months of professional Elixir](https://nts.strzibny.name/ruby-2-7-pattern-matching-after-10-months-of-professional-elixir/)
+  - Author: Josef Strzibny
+  - Read on: 2020-01-10
+  - Tags: pattern matching, elixir, ruby
 
 ### To read
 
