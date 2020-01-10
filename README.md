@@ -159,6 +159,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Sandi Metz
   - Watched on: 2019-10-18
 
+- [Extracting a tidy PORO from a messy Active Record model](https://www.codewithjason.com/extracting-tidy-poro-messy-active-record-model/)
+  - Author: Jason Swett
+  - Read on: 2020-01-10
+  - Tags: refactoring, rails, poro, models
+
 ### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
