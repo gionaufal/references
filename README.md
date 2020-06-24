@@ -127,6 +127,11 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Read on: 2019-11-21
   - Tags: performance, rails, tests
 
+- [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+  - Author: Rob Bell
+  - Read on: 2020-04-06
+  - Tags: big-o-notation, algorithms
+
 ### Refactoring
 
 - [Refactoring code that accesses external
@@ -291,6 +296,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Author: Josef Strzibny
   - Read on: 2020-01-10
   - Tags: pattern matching, elixir, ruby
+
+- [Why does Rails 6 include both Webpacker and Sprockets?](https://rossta.net/blog/why-does-rails-install-both-webpacker-and-sprockets.html)
+  - Author: Ross Kaffenberger
+  - Read on: 2020-06-24
+  - Tags: rails, webpack, sprockets, frontend
 
 ### To read
 
