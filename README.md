@@ -302,6 +302,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2020-06-24
   - Tags: rails, webpack, sprockets, frontend
 
+- [The Complexity of Active Record Transactions](https://janko.io/the-complexity-of-activerecord-transactions/)
+  - Author: Janko Marohnić
+  - Read on: 2020-10-08
+  - Tags: rails, activerecord, sequel, db
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
