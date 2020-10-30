@@ -339,6 +339,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
 - [Phoenix LiveView Tutorial: Bootstrap Your Messenger App](https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-2)
   - Tags: tutorials, phoenix, elixir, liveview
 
+- [What causes Ruby memory
+  bloat?](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
+  - Tags: ruby, refactoring
+
+
 ### Bookmarks
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
