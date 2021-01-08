@@ -307,6 +307,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2020-10-08
   - Tags: rails, activerecord, sequel, db
 
+- [Using client stubs for easy and reliable integration tests](https://fabioperrella.github.io/2020/12/31/using-client-stubs-for-easy-and-reliable-integration-tests.html)
+  - Author: Fabio Perrella
+  - Read on: 2021-01-08
+  - Tags: rails, testing, rspec, stubs
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
