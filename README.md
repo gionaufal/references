@@ -169,6 +169,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2020-01-10
   - Tags: refactoring, rails, poro, models
 
+- [Small Rails design patterns that make a big difference](https://longliveruby.com/articles/small-rails-design-patterns)
+  - Author: Paweł Dąbrowski
+  - Read on: 2021-02-22
+  - Tags: refactoring, rails, patterns
+
 ### Ruby/Rails
 
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
