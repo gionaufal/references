@@ -317,6 +317,11 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2021-01-08
   - Tags: rails, testing, rspec, stubs
 
+- [Understanding ActiveRecord inner joins](https://www.ananunesdasilva.com/posts/understanding-activerecord-inner-joins)
+ - Author: Ana Nunes da Silva
+ - Read on: 2021-03-18
+ - Tags: rails, activerecord, sql, jois
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
