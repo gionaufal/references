@@ -322,6 +322,16 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
  - Read on: 2021-03-18
  - Tags: rails, activerecord, sql, jois
 
+- [Ruby's map | collect methods explained visually](https://richstone.io/rubys-map-collect-methods-explained-visually/)
+ - Author: Rich Steinmetz
+ - Read on: 2021-03-31
+ - Tags: ruby, alias
+
+- [Why are there multiple names for one method in Ruby?](https://richstone.io/why-are-there-multiple-names-for-one-method-in-ruby/)
+ - Author: Rich Steinmetz
+ - Read on: 2021-03-31
+ - Tags: ruby, alias
+
 ### To read
 
 - [How to create a simple CRUD app with Rails and
