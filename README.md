@@ -99,6 +99,10 @@ hour](https://dev.to/nickitax/how-to-build-your-own-primitive-surveillance-syste
   - Author: Bernat Rafales
   - Read on: 2019-11-11
 
+- [Apathy and Arsenic: a Victorian Era lesson on fighting the surveillance state](https://www.youtube.com/watch?v=egi8Lm5W3FY)
+  - Author: Lilly Ryan
+  - Watched on: 2021-10-22
+
 ### Performance
 
 - [3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and
