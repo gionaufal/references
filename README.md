@@ -216,7 +216,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2019-02-18
 
 - [Essential Ruby Gems for Web Application Development with Rails
-  5.2](https://devtechnica.com/ruby-language/essential-ruby-gems-for-web-application-development-with-rails-5-2)
+  5.2](https://devtechnica.com/ruby/ruby%20on%20rails/essential-ruby-gems-for-web-application-development-with-rails-5/)
   - Author: Sreedev Kodichath
   - Read on: 2019-02-19
 
@@ -226,7 +226,7 @@ services](https://martinfowler.com/articles/refactoring-external-service.html)
   - Read on: 2019-02-28
 
 - [A collection of tips and tricks for the Ruby
-  language](https://devtechnica.com/ruby-language/a-collection-of-tips-and-tricks-for-the-ruby-language)
+  language](https://devtechnica.com/ruby/ruby%20on%20rails/sidekiq/a-collection-of-tips-and-tricks-for-the-ruby-language/)
   - Author: Sreedev Kodichath
   - Read on: 2019-02-28
 
